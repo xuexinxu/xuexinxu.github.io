@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+<style>
+h4 {
+  font-family: "calibri";
+  color: silver;
+  font-size: 200%;
+  text-align: center;
+}
+h5 {
+  font-family: "calibri";
+  color: blue;
+  font-size: 200%;
+  text-align: center;
+}
+body {
+    background-color:white;
+}
+p {
+   border: 0px solid black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 150px;
+    margin-left: 150px;
+    font-family:monotype corsiva;
+    color:skyblue;
+    font-size:700%; 
+    text-align: center;
+}
+h1{
+  border: 10px solid skyblue;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 150px;
+    margin-left: 150px;
+    font-family:monotype corsiva;
+    font-size:250%; 
+    text-align: ;
+    color:skyblue;
+}
+h2 {
+    border: 0px solid black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 150px;
+    margin-left: 150px;
+    font-family:monotype corsiva ;
+    font-size:300%; 
+    color:skyblue;
+    text-align: center;
+}
+h3{
+    border: 0px solid black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 150px;
+    margin-left: 150px;
+    font-family:monotype corsiva;
+    font-size:200%; 
+    color:skyblue;
+    text-align: center ;
+}
+.img-thumbnail {
+    display: inline-block;
+    max-width: 80%;
+    height: auto;
+    padding: 0px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 10px dotted white;
+    border-radius: px;
+    -webkit-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+.img2-thumbnail {
+    display: inline-block;
+    max-width: 20%;
+    height: auto;
+    padding: 0px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 10px dotted #fff;
+    border-radius: px;
+    -webkit-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+</style>
+</head>
+<body>
+<h4>
+    <a href="https://anrattanasouk.github.io/">HOME • </a></button>
+  <a href="https://anrattanasouk.github.io/XueXinXu.html">STRESS • </a></button>
+  <a href="https://anrattanasouk.github.io/old.html">PROCRASTINATION</a></button>
+</h4>
+
+<p>
+  =Welcome!=
+</p>  
+<p>
+  <img src="http://www.wallpaperup.com/uploads/wallpapers/2014/08/18/424335/big_thumb_a396654f2ab4e735dd19b2ad2042ccb9.jpg"
+  alt="http://www.wallpaperup.com/uploads/wallpapers/2014/08/18/424335/big_thumb_a396654f2ab4e735dd19b2ad2042ccb9.jpg" style="width:1040px;height:600px;"
+</p>
+
+<h2> DIGITAL STRESS RELIEVER </h2>
+<p></p>
+<h1>Images</h1>
+
+
+<p>
+  <img src="https://s-media-cache-ak0.pinimg.com/originals/62/f4/10/62f41041f638bca19edc5d0310e4058c.gif"
+alt="https://s-media-cache-ak0.pinimg.com/originals/62/f4/10/62f41041f638bca19edc5d0310e4058c.gif"class="img2-thumbnail">
+  <img src="http://wallarthd.com/wp-content/uploads/2014/08/Cute-Child-Penguin-Wallpaper-Desktop.jpg"
+alt="http://wallarthd.com/wp-content/uploads/2014/08/Cute-Child-Penguin-Wallpaper-Desktop.jpg" class="img2-thumbnail">
+  <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ29asYYn9d5Vpi78kz7MJOtRvUkAoHDNtsBguBlLlBrNPFOrNYs5YrSFM"
+alt="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ29asYYn9d5Vpi78kz7MJOtRvUkAoHDNtsBguBlLlBrNPFOrNYs5YrSFM" class="img-thumbnail"style="width:500px;height:300px;">
+</p>
+
+
+
+<h3>
+  <img src="http://www.kingmovie2k.com/wp-content/uploads/2016/06/Finding-Dory-2016-tamil.jpg"
+  alt="http://www.kingmovie2k.com/wp-content/uploads/2016/06/Finding-Dory-2016-tamil.jpg" class="img-thumbnail">
+</h3>
+<h3>
+    "Just keep swimming" -Dory from Finding Nemo
+</h3>
+<p> 
+  <img src="https://67.media.tumblr.com/abff0a96048d4087fc915913e376e5ab/tumblr_nlwxlwkEvq1s82pilo1_500.gif"
+  alt="https://67.media.tumblr.com/abff0a96048d4087fc915913e376e5ab/tumblr_nlwxlwkEvq1s82pilo1_500.gif" class="img2-thumbnail">
+  <img src="http://66.media.tumblr.com/c32367a36575d62bf1a372aa4bac5148/tumblr_n90iv9yaFi1rq3xado1_500.jpg"
+  alt="http://66.media.tumblr.com/c32367a36575d62bf1a372aa4bac5148/tumblr_n90iv9yaFi1rq3xado1_500.jpg">
+</P>
+
+<h1>Musics</h1>
+<h1>Videos</h1>
+
+<h3>Disclaimer: this is all based on my own experience. I do not own any of the content. </h3>
+
+</body>
+</html>
